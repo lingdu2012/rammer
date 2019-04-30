@@ -1,5 +1,5 @@
 # rammer
-![](.\doc\logo.jpg)
+![](https://github.com/lingdu2012/rammer/blob/master/doc/logo.jpg)
 
 
 
